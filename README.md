@@ -1,4 +1,4 @@
-# dashboard-laporan-mobilitas-
+# Dashboard-laporan-mobilitas-Indonesia
 Tampilan dashboard dapat dilihat di https://tabita.shinyapps.io/Mobility_BPS_Hackathon/
 Deskripsi Data Mobilitas Indonesia
 GMI (Google Mobility Index) - Persentase perubahan jumlah/lama kunjungan seseorang ke beberapa tempat dalam suatu hari dibandingkan baseline days. Nilai baseline berupa median per hari yang dihitung menggunakan data kunjungan pada periode 3 Januari - 6 Februari 2020. Nilai GMI positif berarti aktivitas lebih tinggi dibandingkan dengan periode baseline, nilai GMI negatif berarti aktivitas lebih rendah dibandingkan dengan periode baseline. Sumber : https://www.google.com/covid19/mobility/
